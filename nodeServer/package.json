@@ -1,0 +1,16 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "Real time chat appliaction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "emojionearea": "^3.0.0",
+    "git": "^0.1.5",
+    "socket.io": "^4.7.2"
+  }
+}
